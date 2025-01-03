@@ -1,0 +1,48 @@
+/* css styles */
+
+.navbar-logo {
+  max-height: 75px;
+  margin: 10px;
+}
+
+a { color: #3B78D7; }
+
+.key-points {
+  padding: 1em;
+  background: #587e76;
+  color: white;
+  border: 2px;
+  border-radius: 2px;
+}
+
+.objectives {
+  padding: 0.5em;
+  background: #5b9aa0;
+  color: white;
+  border: 1px;
+  border-radius: 1px;
+}
+
+.discussion {
+  padding: 1em;
+  background: #c8553d;
+  color: white;
+  border: 2px;
+  border-radius: 2px;
+}
+
+.resources {
+  padding: 1em;
+  background: #a79e84;
+  color: white;
+  border: 2px;
+  border-radius: 2px;
+}
+
+.challenge {
+  padding: 1em;
+  background: #667292;
+  color: white;
+  border: 2px;
+  border-radius: 2px;
+}

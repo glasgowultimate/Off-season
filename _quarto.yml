@@ -1,0 +1,57 @@
+project:
+  type: website
+
+website:
+  title: "GU Off-Season Handbook"
+  navbar:
+    background: primary
+    logo: "images/GlasgowLogoOutline.png"
+    pinned: true
+    left:
+      - text: Getting Started
+        menu:
+          - href: building.qmd
+            text: Building the ultimate athlete
+          - href: goals.qmd
+            text: Setting personal goals
+          - href: planning.qmd
+            text: Planning your season
+      - text: Strength and Conditioning
+        menu:
+          - href: strength.qmd
+            text: Strength training
+          - href: mobility.qmd
+            text: Mobility training
+          - href: endurance.qmd
+            text: Endurance Training
+          - href: saq.qmd
+            text: Speed, agility, quickness
+          - href: recovery.qmd
+            text: Recovery
+          - href: injury.qmd
+            text: Injury prevention
+      - text: Skill Development
+        menu:
+          - href: skills.qmd
+            text: Skill development in ultimate
+          - href: throwing_practice.qmd
+            text: How to practice throwing
+          - href: drill_tips.qmd
+            text: How to get the most out of your throwing drills
+      - text: Elite Performance
+        menu:
+          - href: nutrition.qmd
+            text: Nutrition
+          - href: mental.qmd
+            text: Mind games
+          - href: video.qmd
+            text: Video analysis
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+

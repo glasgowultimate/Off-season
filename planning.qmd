@@ -1,0 +1,99 @@
+---
+title: "Planning your season"
+---
+
+<head>
+
+```{=html}
+<script src="https://kit.fontawesome.com/ece750edd7.js" crossorigin="anonymous"></script>
+```
+
+</head>
+
+### Periodisation
+
+**Periodisation** involves splitting your season into blocks of focused activity in order to **peak** for certain events. Each block is designed around a specific area or progression of your training regime to allow you to reach maximum performance level when it matters most.
+
+![](images/progression.png){width="100%"}
+
+There are a couple of great articles on periodisation, phases and ultimate conditioning here:
+
+-   [Periodisation - Peaking at the right time](http://skydmagazine.com/2015/12/periodization/)
+
+-   [The 5 phases of your training year](http://skydmagazine.com/2015/01/five-phases-training-year/)
+
+One typical approach is to break your season down into specific periods, with your training becoming more ultimate specific as you approach your peak. The off-season is great for rehabbing injuries and building strength but eventually we want this gym work to translate to more powerful on field movements: Running faster, turning harder, jumping higher etc.
+
+<br>
+
+| Off season | Pre season | Peak season |
+|------------------------|------------------------|------------------------|
+| Injury prevention | S&C focus: Power based movements | Maintaining conditioning |
+| S&C focus: Strength and robustness | Running focus: Speed and Agility | Competitive play |
+| Running focus: Base endurance | Primarily on-field training |  |
+| Primarily indoor training |  |  |
+
+<br>
+
+### Build A Season Plan
+
+An overall season plan brings your goals into focus and helps you get started with your off-season.
+
+<br>
+
+![](images/plan.png){width="100%"}
+
+<br>
+
+Here is an [example](https://docs.google.com/spreadsheets/d/1ni01ex3Xq-TEpTpjfjjTGhxZAcTwUQvEPKZ3FHcb1n0/edit?usp=sharing) of a past season plan. The aim was to develop strength, power and technique through Jan-May, be game ready for the summer and peak for Nationals and Euros at the end of the season.
+
+Some things to think about while creating your plan:
+
+-   Periodisation allows **progressive training**. Build muscle strength, transition this into power and translate that power into on-field movements.
+
+-   **Focus** on specific aspects to maximise gains, rather than spreading yourself too thin.
+
+-   Allow appropriate recovery time between workouts to **avoid overloading**.
+
+-   Make a plan that you can stick to. This needs to be tailored to your own time, motivation and access to facilities.
+
+-   **Avoid plateauing** or **burnout**.
+
+    -   Switching up your routine keeps you **energised, focused and motivated**.
+
+If you need assistance making a plan then please contact a coach!
+
+::: objectives
+<h2><i class="far fa-check-square"></i> Task</h2>
+
+Build your training plan for the upcoming season.
+
+Start by laying out key dates for the year ahead. Think about when you want to hit peak performance, then work backwards to create a plan.
+
+-   Need to perform at trials? Make sure you’ve started running a few weeks in advance.
+
+-   Want to peak for Nationals and again for Euros? Maybe add in a mini off-season to recover and rebuild.
+:::
+
+<br>
+
+::: resources
+<h2><i class="far fa-clipboard"></i> Training Resources</h2>
+
+The [GU website](https://glasgowultimate.co.uk/training-resources/) has some resources to help you:
+
+-   Off-season strength training
+
+-   Pre-season strength training
+
+-   GU track program (16 weeks)
+
+    -   Endurance training
+
+    -   Preparing for sprinting
+
+-   GU Speed, Agility, Quickness training (12 weeks)
+
+-   Focused throwing sessions
+:::
+
