@@ -60,7 +60,7 @@ Before releasing a disc, your brain has to process a lot of information very qui
 
 Basically, **experience counts.** Add variation to your drills to develop your skill and become an adaptable thrower. You can’t drill every possible combination, but you can add enough variation for your brain to accurately fill in the gaps when faced with new scenarios.
 
-**Example:**
+**EXAMPLE:**
 
 Changing the target distance every 10 throws can be better practice than 100 throws at a fixed distance.
 
@@ -97,7 +97,7 @@ Training these game time decisions is crucial to implementing your skills in gam
 
 ### Visualisation
 
-#### [**Visualise, execute, evaluate**]{.underline}
+#### **Visualise, execute, evaluate**
 
 Visualisation is a powerful tool for developing throws with deliberate practice.  
 
@@ -119,11 +119,11 @@ Visualisation is a powerful tool for developing throws with deliberate practice.
 
 One useful drill is to throw two discs in quick succession. With the second throw, to try to either  a) replicate a well executed first throw or b) correct the errors in the first throw. 
 
-#### [**Visualise game like scenarios**]{.underline}
+#### **Visualise game like scenarios**
 
 Even if you are only practicing with one other player, you can still imagine game-like scenarios and the throw you wish to execute. Imagine where you are on the pitch, what the defense is doing and the type of throw you want to make. 
 
-#### [**Brain training**]{.underline}
+#### **Brain training**
 
 Away from the pitch, putting yourself in game situations in your head, or replaying past scenarios is still valuable brain training. 
 
@@ -171,7 +171,7 @@ All of the calculations above are performed with split-second timing (often subc
 
 -   The receivers next move i.e. continuation
 
-**Example:**
+**EXAMPLE:**
 
 Pass: Throw to my reset 
 
@@ -179,4 +179,4 @@ Perfect pass: Pivot low and wide around the force. Throw a leading pass backhand
 
 When running drills or practicing your throwing, you should think about the “perfect pass” for each situation and intentionally focus on **specific** aspects of the throw.
 
-### 
+

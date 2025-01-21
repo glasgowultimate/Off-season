@@ -6,7 +6,7 @@ Ultimate is a sport with many physical demands that require different forms of t
 
 ![](images/ua_alan.png){width="100%"}
 
-### Athletic Conditioning
+### Athletic Development
 
 We are going to focus on 4 key areas of physical conditioning for athletic performance:
 
@@ -30,7 +30,7 @@ We are going to focus on 4 key areas of physical conditioning for athletic perfo
 
     -   Increased range of motion, maneuverability and flexibility
 
-### Elite Performance
+### Peak Performance
 
 This handbook provides resources for athletic and ultimate conditioning as well as tips and advice to improve other areas of your game:
 
@@ -44,6 +44,13 @@ This handbook provides resources for athletic and ultimate conditioning as well 
 
 On top of all this training, we also need to spend time playing games and developing strategy and cohesion with our team. Unless you become a full time athlete, it is very difficult to train all of these aspects at the same time.
 
-[**Goal setting**](goals.html) is one way to focus on the specific elements of training that will benefit you the most. Tailor your training to target key strengths or weaknesses based on your role on a team or the player you want to become.
+[Goal setting](goals.html) is one way to focus on the specific elements of training that will benefit you the most. Tailor your training to target key strengths or weaknesses based on your role on a team or the player you want to become.
 
-Another strategy is to adopt a [**progressive training plan**](planning.html) that changes throughout the season to build towards peak performance.
+Another strategy is to adopt a [progressive training plan](planning.html) that changes throughout the season to build towards peak performance.
+
+### Resources
+
+This handbook provides links to resources:
+GU docs...
+spreadsheet
+Specific ultimate programs..

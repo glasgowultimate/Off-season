@@ -16,7 +16,7 @@ website:
             text: Setting personal goals
           - href: planning.qmd
             text: Planning your season
-      - text: Strength and Conditioning
+      - text: Athletic Development
         menu:
           - href: strength.qmd
             text: Strength training
@@ -29,7 +29,7 @@ website:
           - href: recovery.qmd
             text: Recovery
           - href: injury.qmd
-            text: Injury prevention
+            text: Injury prevention and rehab
       - text: Skill Development
         menu:
           - href: skills.qmd
@@ -38,7 +38,7 @@ website:
             text: How to practice throwing
           - href: drill_tips.qmd
             text: How to get the most out of your throwing drills
-      - text: Elite Performance
+      - text: Peak Performance
         menu:
           - href: nutrition.qmd
             text: Nutrition
@@ -46,11 +46,14 @@ website:
             text: Mind games
           - href: video.qmd
             text: Video analysis
+          - href: trials.qmd
+            text: Preparing for trials
 
 format:
   html:
-    theme: flatly
-    css: styles.css
+    theme:
+      - flatly
+      - styles.scss
     toc: true
 
 editor: visual
