@@ -1,0 +1,420 @@
+---
+title: "Sports Nutrition for Ultimate Athletes"
+---
+
+Nutrition is a major field in sports science and extremely important for elite athletes searching for maximal performance improvements. This often involves precise monitoring of nutrient intake and a data-driven approach to optimise performance. Although this approach yields results it can be overwhelming and difficult for amateur athletes to maintain. Gains in athletic performance can still be achieved without obsessing over every calorie.
+
+-   Eat a balanced diet.
+-   Prioritise good quality, nutrient dense foods.
+-   Think about meal timing relative to exercise.
+-   Be aware of general trends in your energy levels, health, performance and recovery.
+
+## Online Resources
+
+Here are some links to online resources for athletes:
+
+-   [UK Sports Institute nutritional guidelines for athletes](https://uksportsinstitute.co.uk/wp-content/uploads/2021/07/Sports-Nutrition-Fundamentals-To-Improve-Performance-full-resource-v2.8.pdf)
+-   [GB Ultimate nutritional advice](https://drive.google.com/file/d/1YEjfozV343ih-LeVETxT7xKTdQvK6b_b/view?usp=sharing)
+-   [BE Fuel](https://beultimate.com/blogs/living-better-than-ever/fuel-why-is-nutrition-important): Guide for nutrition for ultimate athletes (PDF download)
+-   [CoastToCoastNutrition](https://www.instagram.com/coasttocoastnutrition/): Nutrition focused Instagram account run by an ultimate athlete.
+-   [What to eat at a tournament](https://ultiworld.com/2014/06/02/eat-tournament/): Ultiworld article.
+-   [Nutrition for ultimate athletes](https://s3.amazonaws.com/kajabi-storefronts-production/sites/564/themes/236018/downloads/uTUTbwiQTGCanrGigpwO_NutritionforUltimateAthletes-Witmer.pdf): Resource from UltyResults. 
+-   AI is a powerful tool. If you give ChatGPT your weekly workout schedule it can provide a comprehensive meal plan for each day.
+
+## General Diet
+
+A well-balanced diet is crucial for athletic performance, recovery, and overall health. For athletes, a combination of macronutrients (carbohydrates, proteins, and fats) and micronutrients (vitamins and minerals) ensures optimal energy levels and muscle function.
+
+#### **Eat a Variety of Foods**
+
+-   Ensure meals contain a mix of macronutrients (carbohydrate, protein, fat)  and micronutrients (vitamins, minerals etc.)
+-   Eat a variety of whole foods to ensure your body gets the right balance of nutrients.
+
+#### **Carbohydrates for Energy**
+
+-   **Complex carbs** (e.g. whole grains, oats, quinoa, sweet potatoes) provide slow-releasing energy.
+-   **Simple carbs** (e.g. fruits, honey, sports drinks) give quick bursts of energy, useful before/during exercise.
+
+#### **Protein for Muscle Recovery**
+
+-   Helps with muscle repair and growth.
+-   Sources: Lean meats, fish, eggs, dairy, tofu, legumes, nuts, seeds.
+-   Distribute protein intake throughout the day.
+-   Especially important post-exercise.
+
+#### **Healthy Fats for Sustained Energy and Recovery**
+
+-   Support hormone production, long-term energy reserves, brain function and manage inflammation,
+-   Focus on **unsaturated fats** (avocados, nuts, olive oil, oily fish).
+-   Limit **saturated and trans fats** (fried foods, processed meat and snacks).
+
+#### **Fruit and vegetables**
+-   These foods provide most of the **micronutrients** (vitamins, minerals, antioxidants, phytonutrients) the body needs to function**.**
+-   Aim for **5-7 servings per day** with a variety of colours**.**
+
+#### **Hydration**
+-   Water is essential for metabolism, performance, and recovery.
+-   **Electrolytes** (from coconut water, sports drinks, or salty snacks) help maintain balance during long matches.
+
+#### **Sugar**
+-   Limit added sugars found in sodas, sweets, and processed foods.
+-   Natural sugars from fruit provide energy without the crash.
+
+#### **Limit Ultra-Processed Foods (UPFs)**
+-   Highly processed foods often contain preservatives, unhealthy fats, and artificial additives.
+-   Maximise whole, minimally processed foods with greater nutritional value.
+-   Limiting UPFs will generally improve the overall quality of your diet.
+    
+## Healthy Habits
+
+Here are few suggestions to maintain healthy eating habits:
+
+-   Eat meals slowly to avoid overeating.
+-   It’s best to avoid eating large meals 2–3 hours before bedtime to allow your body to digest food, prevent discomfort, and support quality sleep.
+-   Planning and preparing meals ahead of time can help you make healthier choices and avoid grabbing unhealthy snacks or fast food in a pinch. This also allows you to control portion sizes and ingredients.
+-   Stock up on nutritious snacks like fruits, veggies, yoghurt, nuts, or hard-boiled eggs to keep hunger at bay and maintain balanced energy throughout the day.
+-   Don’t skip meals - have a consistent eating routine.
+-   Listen to your body - fuel appropriately before and after training sessions.
+-   The [Yuka app](https://yuka.io/en/) can scan barcodes on products and tell you what’s in your food!
+
+## Hydration
+
+Proper hydration is essential for performance, recovery, and overall health. Dehydration can lead to fatigue, muscle cramps, reduced coordination, and even cognitive decline—all of which can negatively impact your game.
+
+### 1. Daily Hydration Needs
+
+Your hydration needs depend on your body size, activity level, and climate. However, general guidelines suggest \~2.7 - 3.7 litres of water per day. Higher intake may be required by athletes, especially on training or competition days.
+
+Around 20% of water will come from food, the rest is provided by drinking drinking water and other fluids like milk, juice, tea/coffee, soup/stew etc.
+
+A good rule of thumb is to **monitor urine color**—pale yellow indicates good hydration, while dark yellow suggests dehydration.
+
+### 2. Hydration During Training and Matches
+
+#### **Before Activity**
+
+-   1-2 hours before: Drink **500-600 ml**  of water.
+-   30 minutes before: Drink **250-350 ml** of water.
+
+#### **During Activity**
+
+-   For sessions **under** **60 minutes**, sip water (\~100-200 ml every 15-20 minutes).
+-   For sessions **longer than 60 minutes**, especially in hot weather, **electrolyte-rich drinks** can help replenish lost sodium, potassium, and magnesium.
+
+#### **After Activity**
+
+-   Drink **500-750 ml per 0.5 Kg lost** through sweat.
+-   Include **electrolytes** in recovery drinks (sports drinks, coconut water, or water with a pinch of salt).
+
+#### **Signs of Dehydration**
+
+-   Fatigue, headaches, dizziness
+-   Dry mouth, reduced urine output
+-   Muscle cramps
+-   Increased heart rate
+
+#### **Overhydration**
+
+Drinking excessive amounts of water without replenishing electrolytes can lead to **hyponatremia** (low sodium levels), which can be dangerous. Balance water intake with proper sodium replenishment.
+
+## Protein
+
+### 1. Why Is Protein Important?
+
+Protein plays several key roles in athletic performance:
+
+-   **Muscle repair and growth** – especially after intense training or matches.
+-   **Recovery** – speeds up muscle repair and reduces soreness.
+-   **Provides sustained energy** – prevents muscle breakdown when glycogen stores are low.
+-   **Supports immune function** – reducing the risk of illness during the season.
+
+### 2. How Much Protein Do You Need?
+
+Protein needs vary based on training intensity and body weight:
+
+-   **General population:** \~0.8g per kg of body weight.
+-   **Active athletes:** \~1.2-2.0g per kg of body weight.
+-   **Strength-focused athletes:** Up to **2.2g per kg** for muscle gain.
+
+#### **Example**
+
+A 70 kg (154 lb) ultimate athlete should aim for 84-140g of protein per day depending on training demands.
+
+### 3. When to Consume Protein?
+
+#### **Pre-Exercise (1-2 hours before)**
+
+-   A **small amount of protein** can help sustain muscle function.
+-   Combine with **carbohydrates** for energy.
+-   **Examples:**
+    -   Greek yoghurt with fruit
+    -   Scrambled eggs on whole grain toast
+    -   A protein smoothie with oats and banana
+
+#### **Post-Exercise (Within 30-60 minutes after play)**
+
+-   Most **important window** for muscle repair and growth**.**
+-   Combine **protein and carbohydrates** to replenish glycogen and start muscle recovery.
+-   **Examples:**
+    -   Protein shake with banana
+    -   Grilled chicken and quinoa
+    -   Cottage cheese with honey and berries
+
+### 4. Best Protein Sources for Ultimate Athletes
+
+#### **Animal-Based Sources (Complete Proteins – contain all essential amino acids)**
+
+-   Lean meats: Chicken, turkey, lean beef
+-   Fish: Salmon, tuna, cod
+-   Dairy: Greek yoghurt, cottage cheese, milk
+-   Eggs: Whole eggs and egg whites
+-   Whey Protein: Fast-digesting, ideal post-workout
+
+#### **Plant-Based Sources (May need to combine for a full amino acid profile)**
+
+-   Legumes: Lentils, chickpeas, black beans
+-   Soy Products: Tofu, tempeh, edamame
+-   Whole Grains: Quinoa, oats, brown rice
+-   Nuts & Seeds: Almonds, chia seeds, pumpkin seeds
+-   Plant-Based Protein Powders: Pea, hemp, rice protein
+
+### 5. Protein Supplements
+
+Protein powders are **convenient** but not required if you're meeting your daily needs through whole foods.
+
+-   **Whey protein** (fast-digesting, ideal for post-workout recovery).
+-   **Casein protein** (slow-digesting, good for nighttime recovery).
+-   **Plant-based proteins** (pea, hemp, soy) for those avoiding dairy.
+
+If using supplements, **choose high-quality products** without unnecessary additives or artificial sweeteners.
+
+### 6. Can You Eat Too Much Protein?
+
+Excess protein **won’t necessarily boost performance** and can lead to:
+
+-   Unused protein being stored as fat.
+-   Increased strain on kidneys (for those with existing kidney conditions).
+-   Imbalanced macronutrient intake (too much protein might mean too few carbs).
+
+Aim for **a balanced approach**, focusing on **timing and quality** over excessive intake.
+
+## Carbohydrates
+
+Carbohydrates are the primary fuel source for high-intensity sports. They provide **quick and sustained energy**, help with recovery, and prevent fatigue during long training sessions and tournaments.
+
+### 1. Why Are Carbohydrates Important?
+
+-   **Energy production:** The body converts carbs into glycogen, which is stored in muscles and the liver for quick energy.
+-   **Improved endurance:** Helps maintain performance over multiple games or training sessions.
+-   **Faster recovery:** Restores glycogen stores after exercise.
+-   **Prevents muscle breakdown:** Ensures protein is used for muscle repair rather than energy.
+
+### 2. How Many Carbs Do You Need?
+
+Carbohydrate needs depend on training intensity:
+
+-   **Low activity (rest day):** \~3-5g per kg of body weight.
+-   **Moderate training (gym, skills practice):** \~5-7g per kg.
+-   **High-intensity training (game days, tournaments):** \~7-10g per kg.
+
+#### **Example**
+
+A 70 kg (154 lb) ultimate athlete needs:
+
+-   Rest day: \~210-350g carbs
+-   Training day: \~350-490g carbs
+-   Tournament day: \~490-700g carbs
+
+### 3. Types of Carbohydrates
+
+Not all carbs are the same. Understanding the differences helps with **timing** and **performance optimization**.
+
+#### **Quick-Release Carbohydrates (Simple Carbs)**
+
+-   Fast energy, digests quickly, useful pre-game or during play.
+-   Found in:
+    -   Fruits (bananas, berries, oranges)
+    -   Honey, maple syrup
+    -   White rice
+    -   Energy gels, sports drinks
+
+#### **Slow-Release Carbohydrates (Complex Carbs)**
+
+-   Provide long-lasting energy and sustain performance.
+-   Found in:
+    -   Whole grains (brown rice, quinoa, oats, whole wheat bread)
+    -   Starchy vegetables (sweet potatoes, beans, lentils)
+    -   Legumes (chickpeas, black beans)
+
+### 4. When to Consume Carbs?
+
+#### **Pre-Workout (1-3 hours before training or a match)**
+
+-   Focus on **complex carbs** to ensure sustained energy.
+-   **Examples:**
+    -   Oatmeal with banana and honey
+    -   Whole grain toast with peanut butter
+    -   Rice with chicken and vegetables
+
+#### **During Training/Matches (If over 60 minutes)**
+
+-   **Simple carbs** for quick energy and glycogen replenishment.
+-   **Examples:**
+    -   Energy gels, sports drinks
+    -   Bananas, dried fruit
+    -   Rice cakes with honey
+
+#### **Post-Workout (Within 30-60 minutes)**
+
+-   Combine **carbs + protein** to **replenish glycogen** and kickstart muscle recovery.
+-   **Examples:**
+    -   Smoothie with protein powder, banana, and oats
+    -   Rice and lean protein (chicken, tofu, fish)
+    -   Whole wheat wrap with hummus and turkey
+
+## Tournament Nutrition
+
+Eating and drinking properly during a tournament is essential for maintaining energy, focus and performance throughout the day. Here’s a breakdown of how to fuel before, between, and after games:
+
+### 1. Before Playing
+
+Your goal here is to fuel your body with the right balance of carbohydrates for energy, protein for muscle support, and a bit of fat for sustained energy. Ideally, you should eat **1.5 to 2 hours before** your game to allow digestion. Eat well and hydrate the week before the tournament.
+
+-   **Carbohydrates**: Focus on easy-to-digest carbs (like pasta, rice, oatmeal, or bread) to provide quick energy.
+-   **Protein**: Include a moderate amount of protein (chicken, turkey, tofu, yoghurt) to support muscle function.
+-   **Fats**: Keep fats minimal before play (as they take longer to digest), but a small amount of healthy fats (like avocado or nuts) can help sustain you through longer games.
+-   **Hydration**: Hydrate well in advance. Drink water or a sports drink with electrolytes. Avoid sugary or highly caffeinated drinks, which can lead to energy crashes.
+
+**Night before:** Carb-rich dinner (pasta, rice, potatoes) to maximise glycogen stores. Hydrate appropriately.
+
+**Morning of games:** A high-carb breakfast with **some protein and fats** (e.g. oats with nuts and berries, toast with peanut butter). Drink **500 - 700ml** of water.
+
+### 2. During Games
+
+During a game, you will want to maintain energy levels and stay hydrated.
+
+-   **Simple carbs** for quick energy (fruit, dried fruit, granola bars, sports drinks).
+-   Stay hydrated
+    -   Aim to refill a bottle (750ml) every game
+    -   Drink fluids with **electrolytes** to maintain hydration and avoid cramping
+
+### 3. Between Games (Mid-Tournament Fueling)
+
+After a game, you'll want to restore glycogen stores, support muscle recovery, and maintain hydration. You have a shorter window here so focus on quick, portable foods that are easily digested and provide a balance of carbs, protein, and hydration.
+
+-   **Carbohydrates**: To replenish glycogen stores, go for quick carbs like fruit (bananas, oranges), cereal bars, or even a sports drink.
+-   **Protein**: A small snack with protein helps with muscle repair. Options include nuts, Greek yoghurt, or a protein bar.
+-   **Hydration**: Continue drinking water or electrolyte-rich drinks.
+
+#### **Example Snack**
+
+(15-30 minutes after a game):
+
+-   A banana with a small handful of nuts or trail mix.
+-   A protein shake or a cereal bar.
+-   Water or coconut water
+
+### 4. Recovery at the End of the Day
+
+After a day of playing, your body needs proper recovery to repair muscles and restore energy. Try to get some quick recovery in post-game. Then focus on a meal that provides carbs, protein, and some fats to help your body recover and replenish.
+
+-   **Carbohydrates**: Focus on high-quality carbs like sweet potatoes, quinoa, whole grains, or pasta to fully replenish glycogen.
+-   **Protein**: Include lean protein (chicken, fish, tofu, or legumes) to repair muscle tissue.
+-   **Fats**: Healthy fats from sources like avocado, olive oil, or fatty fish (like salmon) can support overall recovery.
+-   **Hydration**: Continue rehydrating with water or a recovery drink that replenishes electrolytes.
+
+#### **Example Recovery**
+
+-   30 - 60 minutes post-game recovery: 
+    -   Smoothie with protein, berries, and oats
+    -   Hydrate
+-   1 - 2 hours post-game: 
+    -   Grilled salmon with quinoa and steamed broccoli.
+    -   A side of sweet potato or a whole grain salad.
+    -   Hydrate
+
+### 5. What to Avoid During a Tournament
+
+-   **Heavy, greasy foods**: These can sit heavy in your stomach and slow digestion, leading to discomfort and sluggishness during play (e.g. burgers, fried foods, or foods high in refined sugars).
+-   **Sugary snacks**: They can cause blood sugar spikes followed by crashes, leading to fatigue. Avoid candy, soda, and sugary snacks.
+-   **Caffeine overload**: While caffeine can boost performance, too much can lead to dehydration, jitters, or energy crashes. Don’t rely on energy drinks with a lot of caffeine and sugar.
+-   **Spicy foods**: They can cause digestive discomfort or even gastrointestinal distress, which can negatively affect your performance.
+-   **Too much fibre**: While fibre is important for general health, high-fibre foods (like beans, raw veggies, or too much whole grain) may cause bloating or gas during physical activity.
+
+### 6. General Tips
+
+-   **Eat small, frequent meals**: If you're playing multiple games a day, don’t overeat before a game. Instead, have smaller meals or snacks that you can digest quickly.
+-   **Experiment in practice**: What works best for you might depend on your specific body and preferences. Try different foods during training to find what makes you feel best.
+-   **Stay hydrated**: Keep sipping water throughout the day, especially between games. Dehydration can drastically impact performance. 
+
+## Sports Drinks
+
+Sports drinks are specifically designed to help athletes maintain hydration and replace electrolytes during prolonged or intense exercise. They typically contain **water**, **sugar (carbohydrates)**, and **electrolytes** like **sodium**, **potassium**, **magnesium**, and **calcium**.
+
+If you're participating in activities lasting **over 60 minutes**, sports drinks can help replace the electrolytes lost through sweat, particularly **sodium** and **potassium**, and provide a quick source of carbohydrates (sugar) for energy. Water is usually adequate for shorter or less intensive exercise.
+
+**Post-workout** sports drinks with both carbohydrates and protein (sometimes called recovery drinks) can help replenish glycogen stores and support muscle recovery.
+
+Sports drinks are extremely convenient but do have some drawbacks such as overconsumption of added sugar and artificial ingredients, especially if you are consuming multiple drinks across a tournament weekend. If you're looking for a more natural or homemade alternative to traditional sports drinks, here are some options:
+
+1.  **Coconut Water:**
+    -   Coconut water is a **natural source of electrolytes** (especially potassium) and is low in calories compared to most sports drinks.
+2.  **Homemade Electrolyte Drink:**
+    -   1 cup of water
+    -   1 tablespoon of honey or maple syrup (for carbs)
+    -   1/4 teaspoon of salt (for sodium)
+    -   Squeeze of lemon or lime
+3.  **Water with a Dash of Salt and Fruit:**
+    -   For a simpler alternative, add a small pinch of **sea salt** to your water and a few slices of **citrus fruits** (or berries) to enhance flavor and provide some natural vitamins.
+4.  **Herbal Teas or Infused Water:**
+    -   A refreshing hydrating option with minimal calories.
+5.  **Watermelon Juice:**
+    -   Fresh watermelon juice is naturally hydrating and contains **potassium** and **citrulline**, an amino acid that can help improve blood flow and reduce muscle soreness.
+6.  **Diluted Fruit Juices:**
+    -   If you enjoy fruit juices, dilute them with water (about 1 part juice to 2 parts water) to cut down on sugar and still provide some hydration and vitamins.
+
+## Caffeine
+
+Caffeine has been shown to enhance physical performance across a variety of athletic activities, including endurance, strength, and power sports like ultimate. Caffeine peaks in the bloodstream about 30-60 minutes after consumption and has a half-life of about 3-5 hours, meaning its effects can last for several hours.
+
+-   Increased Alertness and Focus
+    -   Caffeine is a stimulant that blocks neurotransmitters that promote sleep and relaxation. By doing so, caffeine improves mood, alertness, and mental focus.
+-   Enhanced Endurance Performance
+    -   Caffeine can increase endurance, making it useful for long-duration activities. It can help delay fatigue and maintain performance over longer periods.
+-   Improved Muscle Performance
+    -   Caffeine can enhance the contractile force of muscles, which leads to improved power output and strength.
+-   Reduced Perception of Effort
+    -   One of the most notable effects of caffeine is its ability to reduce the perception of effort or how hard an activity feels.
+-   Improved Reaction Time
+    -   Caffeine also tends to improve reaction time and decision-making time.
+
+### Potential Downsides
+
+-   Tolerance and Dependence
+    -   Overuse can lead to tolerance, where higher doses are needed for the same effect, and dependence, where people feel they need caffeine to function normally.
+-   Sleep Disruption
+    -   Consuming caffeine too late in the day can interfere with sleep, which is crucial for recovery and overall performance.
+    -   Limiting caffeine intake after 3pm is a good rule of thumb (switch to decaf!)
+-   Gastrointestinal Issues
+    -   Some people may experience stomach discomfort or digestive issues when consuming caffeine, especially on an empty stomach.
+
+## Supplements
+
+Some athletes use supplements to top up their nutritional requirements. Common supplements like protein powder (to meet daily protein needs), creatine (for strength and muscle gains), and electrolytes (for hydration) are generally safe and beneficial when used correctly.
+
+However, when making this decision, you should consider the following:
+
+-   **Prioritise Whole Foods**
+    - Supplements should be a secondary option when your regular diet doesn't meet your nutritional needs, not the primary source of nutrition.
+-   **Choose Reputable Brands**
+    - Look for supplements that have been third-party tested for purity and potency. Certifications like NSF Certified for Sport or Informed-Sport can ensure that the product is free from banned substances and contaminants.
+-   **Stick to Recommended Doses**
+    - Follow the dosage guidelines and avoid taking more than the recommended amounts. More isn’t always better and could lead to negative side effects.
+-   **Unregulated Ingredients**
+    - The supplement industry is not as tightly regulated as pharmaceuticals, meaning some supplements may contain ingredients that aren’t disclosed on the label or could be contaminated.
+-   **Misleading Claims** 
+    - Some supplements make exaggerated or unproven claims about performance or health benefits.
+-   **Psychological Dependence**
+    - Some athletes might develop a psychological reliance on supplements, thinking they’re essential for performance. Over-reliance on supplements may lead to neglecting the basics of diet and exercise.
+-   **Limited Impact**
+    - Many people take supplements expecting dramatic results without considering the larger picture of training, nutrition, sleep, and stress management. Supplements should complement, not replace, good overall habits.

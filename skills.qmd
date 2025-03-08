@@ -1,5 +1,5 @@
 ---
-title: "Skill Development in Ultimate"
+title: "Skill Development In Ultimate"
 ---
 
 Throwing and catching skills are often undervalued in our sport and many ultimate player’s skills plateau once they have passable backhands and forehands good enough to play a role on their team. 
@@ -28,7 +28,7 @@ Continuing to improve your skills requires focussed and deliberate practice.
 
 This guide mostly focuses on throwing and catching skills, but it is important to remember that running, turning, jumping, diving, forcing, defensive footwork and other game movements are also skills that need to be practiced and learned.
 
-### Repetition and muscle memory
+## Repetition and muscle memory
 
 Skill development is a brain-to-muscle activity. When learning a skill, the initial focus should be on **technique**, **repetition** and breaking the skill down into core components. For instance, when learning to throw a forehand, you could focus on the following:
 
@@ -44,7 +44,7 @@ You then want to throw hundreds or even thousands of forehands, focussing on tec
 
 Focusing on good technique is critical, otherwise you ingrain bad habits that are hard to unlearn. Consider getting help from a coach, a teammate or videoing your throws to analyse later.
 
-### Developing adaptable skills
+## Developing adaptable skills
 
 Once you have good technique, you can develop a skill by adding **variation**, the sooner the better:
 
@@ -60,13 +60,13 @@ Before releasing a disc, your brain has to process a lot of information very qui
 
 Basically, **experience counts.** Add variation to your drills to develop your skill and become an adaptable thrower. You can’t drill every possible combination, but you can add enough variation for your brain to accurately fill in the gaps when faced with new scenarios.
 
-**EXAMPLE:**
+### **EXAMPLE**
 
 Changing the target distance every 10 throws can be better practice than 100 throws at a fixed distance.
 
 One trademark of veteran throwers is the ability to perform **micro-corrections** mid way through the throwing action to adjust for imbalances in form. You might recognise the situation where your technique feels awful but you somehow get the disc to go where you wanted. This is often a sign that your brain is correcting your actions in real time to adjust for slight changes in technique. 
 
-### Mastering game time skills
+## Mastering game time skills
 
 > “My hucks are decent but I never throw them in games”\
 > - Most developing players
@@ -95,9 +95,9 @@ Training these game time decisions is crucial to implementing your skills in gam
 
     -   Great for getting lots of touches in different situations
 
-### Visualisation
+## Visualisation
 
-#### **Visualise, execute, evaluate**
+### **Visualise, execute, evaluate**
 
 Visualisation is a powerful tool for developing throws with deliberate practice.  
 
@@ -119,15 +119,15 @@ Visualisation is a powerful tool for developing throws with deliberate practice.
 
 One useful drill is to throw two discs in quick succession. With the second throw, to try to either  a) replicate a well executed first throw or b) correct the errors in the first throw. 
 
-#### **Visualise game like scenarios**
+### **Visualise game like scenarios**
 
 Even if you are only practicing with one other player, you can still imagine game-like scenarios and the throw you wish to execute. Imagine where you are on the pitch, what the defense is doing and the type of throw you want to make. 
 
-#### **Brain training**
+### **Brain training**
 
-Away from the pitch, putting yourself in game situations in your head, or replaying past scenarios is still valuable brain training. 
+Visualisation can also be a really valuable tool away from the pitch. Putting yourself in game situations in your head, or replaying past scenarios is valuable brain training and will help you make better decisions in future. Daydreaming can really make you a better player!
 
-### Perfect Passing
+## Perfect Passing
 
 Football coaches use the phrase “perfect passing” to describe the thought process required when moving the ball. A pass is not simply kicking the ball, or throwing the disc to a player on your team. Some of the things to think about when making the perfect pass:
 
@@ -171,12 +171,10 @@ All of the calculations above are performed with split-second timing (often subc
 
 -   The receivers next move i.e. continuation
 
-**EXAMPLE:**
+### **EXAMPLE**
 
 Pass: Throw to my reset 
 
 Perfect pass: Pivot low and wide around the force. Throw a leading pass backhand into the space just beyond my receiver’s right shoulder. Raise the front edge to allow the disc to float in front of them and a touch of roll curve so that the disc bends towards the receiver’s path. This will give the receiver the best opportunity to continue the swing across the field.
 
 When running drills or practicing your throwing, you should think about the “perfect pass” for each situation and intentionally focus on **specific** aspects of the throw.
-
-

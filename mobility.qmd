@@ -4,7 +4,7 @@ title: "Mobility Training"
 
 Mobility workouts are structured routines aimed at improving the **range of motion**, **control**, and **flexibility of joints and muscles**. Mobility exercises emphasise dynamic, active movements that enhance the functional use of joints and tissues in real-life or sport-specific scenarios.
 
-### Mobility and Functional Strength
+## Mobility and Functional Strength
 
 Ultimate demands dynamic actions like pivoting, jumping, and lunging, which require both strength and flexibility. Regular mobility training improves joint health, promotes recovery, and ensures that strength gains translate into functional, game-ready movement. Incorporating dynamic stretches, yoga, and targeted mobility drills into your routine will help maintain balance, agility, and control on the field.
 
@@ -14,7 +14,7 @@ Mobility is an essential complement to strength and speed training. Building str
 
 Mobility becomes increasingly important as we age. Over time, natural processes such as muscle tightness, joint stiffness, and a decline in flexibility can limit our range of motion and movement efficiency. Regular mobility work helps counteract these effects by keeping joints healthy, improving posture, and maintaining strength through a functional range of motion. Additionally, enhanced mobility supports better balance and coordination, reducing the likelihood of falls and related injuries. Staying mobile also preserves the ability to engage in physical activities and sports, contributing to overall quality of life and longevity.
 
-### Components of mobility workouts
+## Components of mobility workouts
 
 1.  **Dynamic Stretching**: Movements that take joints and muscles through their full range of motion. Examples include leg swings, arm circles, or walking lunges.
 
@@ -28,7 +28,7 @@ Mobility becomes increasingly important as we age. Over time, natural processes 
 
 6.  **Balance and Proprioception**: Activities that challenge stability and body awareness, such as single-leg deadlifts or stability ball exercises.
 
-### Goals of mobility training
+## Goals of mobility training
 
 -   Enhance joint flexibility and stability.
 
@@ -38,7 +38,7 @@ Mobility becomes increasingly important as we age. Over time, natural processes 
 
 -   Optimise performance in strength, speed, and agility.  
 
-### Example exercises
+## Example exercises
 
 -   [World’s Greatest Stretch](https://www.youtube.com/watch?v=-CiWQ2IvY34): Combines lunging, spinal rotation, and hamstring stretching in a single flow.
 
@@ -46,11 +46,11 @@ Mobility becomes increasingly important as we age. Over time, natural processes 
 
 -   [Ankle Dorsiflexion Stretch](https://www.youtube.com/watch?v=ry3OHAKFMCs): Crucial for cutting and sprinting mechanics.
 
--   [Couch Stretch](https://www.youtube.com/watch?v=d9pOjXCKGN8): Focuses on hip flexor mobility for better stride length and core stability.
+-   [Couch Stretch](https://www.youtube.com/watch?v=d9pOjXCKGN8): Focuses on hip-flexor mobility for better stride length and core stability.
 
 -   [90/90 Hip Transitions](https://www.youtube.com/watch?v=Ot6EsGs1Wj8): Opens up the hips and improves control over rotational movements.
 
-### More training?
+## Does this mean more training?
 
 The good thing about mobility training is that you can incorporate it into your existing regime:
 
@@ -64,7 +64,7 @@ The good thing about mobility training is that you can incorporate it into your 
 
 -   Yoga sessions are a great alternative if you want to try something different
 
-### Test your mobility
+## Test your mobility
 
 The *Functional Movement Screen (FMS)* is a series of tests to evaluate movement patterns and identify imbalances or limitations. It can help you understand your body’s mobility and stability needs, and guide your training to address specific areas.
 
@@ -72,7 +72,7 @@ The *Functional Movement Screen (FMS)* is a series of tests to evaluate movement
 
 -   [FMS test overview](https://www.acsm.org/docs/default-source/regional-chapter-individual-folders/northland/nacsm--wes-e--fms9a9b0c1f5032400f990d8b57689b0158.pdf?sfvrsn=3668bbe0_0)
 
-### Build your mobility routine
+## Build your mobility routine
 
 Build your own mobility routine that works for you. Think about what you want to maintain and what you want to improve. Start with something that takes around 5 - 10 minutes and is easy to learn, then add exercises from there. There are a lot of exercises and routines to choose from, but these should provide some inspiration.
 

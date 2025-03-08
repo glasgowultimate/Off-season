@@ -1,5 +1,5 @@
 ---
-title: "Setting personal goals"
+title: "Setting Personal Goals"
 ---
 
 <head>
@@ -7,17 +7,18 @@ title: "Setting personal goals"
 ```{=html}
 <script src="https://kit.fontawesome.com/ece750edd7.js" crossorigin="anonymous"></script>
 ```
+
 </head>
 
 The off season is a great time to set goals for the upcoming year. Think about your main focus for the season and when you aim to be in peak form. Maybe you want to be ready to play your best at trials to make it onto a competitive squad. Perhaps you’re gearing up for the university season, club tournaments or world championships. 
 
 Think about the type of player you want to be, or even the type of player you need to be for your team or to make the squad you are trying out for. Whatever your aims, think about how to achieve them, how well you will need to perform and what processes you need to follow to reach that performance level. It doesn’t matter if you’re aiming to be ultra-competitive or play socially, if you want to improve your game then setting well-defined goals can be a valuable exercise. We can split goals into two main categories:
 
-### Outcomes (your why)
+## Outcomes (your why)
 
 These are often the big picture goals, like “win a medal at worlds”, “make the GU O-line”,  “MVP at cone”. They are outcomes;  results of the processes we identify and the work we put in. They often include elements that are out of our control. We set these goals as these are the ones that motivate us, these are the achievements that mean something to us. However, it is not as simple as saying “I want” and expecting it to happen. Even smaller goals like “being a better thrower” or “winning this game” are just outcomes. Setting these goals keep us motivated and determined but doesn't give us a process to succeed.
 
-### Processes (your how)
+## Processes (your how)
 
 Process goals are under your control and the basic means of reaching the performance level required to achieve your desired outcome. These are the **specific** **actions** you take during your training and the **work** you put into improving an aspect of your game. You can “become a better cutter” by: 
 
@@ -31,34 +32,39 @@ Process goals are under your control and the basic means of reaching the perform
 
 Goal setting is a process that starts with careful consideration of what you want to achieve and ends with the hard work required to actually do it. Along the way, your processes help to formulate well-defined steps that transcend the specifics of each goal. Here are some things to think about when formulating your goals:
 
-### Motivation
+## Motivation
 
 Set goals that motivate you and are important to your own identity. If something is hard then know why it is worth doing. There’s no way I would run hill sprints for fun but I do them every year because of the benefits I get on-field. Choose processes that are in some way enjoyable; that you aren’t likely to give up on when the work becomes difficult or monotonous. Find a pain you can maintain. Sometimes it’s useful to switch up your workouts to avoid mental or physical burnout e.g. try a new gym routine or switch an agility session for a game of squash…
 
-### Work on strengths as well as weaknesses
+## Work on strengths as well as weaknesses
 
 We often set goals to improve the weaker parts of our game, but we are usually defined by our strengths. Most players are on top teams because they do one or two things extremely well rather than being great all-rounders. Think about your main strengths and keep improving them. 
 
-### Set SMART goals
+## Set SMART goals
 
-**Specific:** 
+#### **Specific**
+
 The more specific your goal, the easier it is to **define the processes** to achieve it. Think about the difference between “becoming a better thrower” and “improving my forehand roll-curve hucks”.
 
-**Measurable:**
+#### **Measurable**
+
 Set **measurable** targets to achieve the desired outcome. For instance, if you want to be the “fastest player on the team” find out how fast you will need to run. If you want to be a “reliable handler” set yourself an acceptable pass completion rate. **Record** your performances and **reassess** the goal as your season progresses to keep you on track.
 
-**Achievable:**
-Set goals that are challenging but **achievable**. Think about the next step on the ladder rather than immediately aiming for the top. If your goals are unrealistic it is easy to become demoralised and lose confidence. Sometimes it’s good to set yourself limits and define what minimal success would look like as well as your ideal outcome.
+#### **Achievable**
 
-**Relevant:**
+Set goals that are challenging but **achievable**. Think about the next step on the ladder rather than immediately aiming for the top. If your goals are unrealistic it is easy to become demoralised and lose confidence. Sometimes it’s good to set yourself limits and define what minimal success would look like as well as your ideal outcome.
+
+#### **Relevant**
+
 Make sure your goals align with long-term objectives. Does your gym goal actually translate to improvement as an ultimate player?
 
-**Time-based:**
+#### **Time-based**
+
 Give your goals reasonably short deadlines to increase your productivity, keep yourself accountable and avoid plateauing.
 
 ![](images/smart.jpg){width="100%"}
 
-### Commit your goals to writing
+## Commit your goals to writing
 
 The physical act of writing down a goal makes it real and tangible. You may decide to write a full action plan or just a few statements. It’s a good idea to remind yourself of your goals and review them throughout the season. Some things that might work for you:
 
@@ -66,11 +72,11 @@ The physical act of writing down a goal makes it real and tangible. You may deci
 
 -   Write it on your hand. Sometimes I write 1 or 2 things on my hand before a training session that I want to focus on that day and remind myself during the session.
 
-### Share your goals
+## Share your goals
 
 Deciding to share your goals with others can help to keep you accountable and provide external motivation. You could post them to the world on social media or just tell a friend, family member, teammate or coach.
 
-### Self analysis
+## Self analysis
 
 If you are finding it hard to set goals, maybe start by writing down your strengths and weaknesses. Another idea is to describe the player you currently are and then the player you would like to be. It’s a good idea to discuss this with a coach, mentor or fellow player to make sure you are setting valuable goals and know how to achieve them. Your goals can be as big or small as you like and may be based around your gameplay, throwing ability, strength, speed, whatever you want to improve.
 
@@ -96,9 +102,8 @@ If you are finding it hard to set goals, maybe start by writing down your streng
 4.  Think of a way to **measure** the **performance** of one of your goals, set **achievable** targets and **deadlines**.
 :::
 
-### Plan - Do - Review
+## Plan - Do - Review
 
 It’s up to you how much effort you want to put into this, but do it in a way that makes sense to you. You could write a full on action plan (spreadsheet, flow diagrams, bullet points, mission statement) or just write a few things down on paper. It would be a good idea to make this accessible and visible e.g. Pin it up in your room, have a copy on your phone, bring notes to training
 
 The point of this exercise is to make sure you are starting your off-season with a focus and have put some thought into how you will improve your game. Your goals will likely change throughout the season and it is important to review and reassess them regularly. Your long term “big picture” goals might stay the same but you will likely shift the focus of how you achieve them as your training progresses. Some goals may be as short term as the next training session.You don't need to draw out a new action plan every time, just try to make a few notes and break down the processes and performances you require to achieve success.
-

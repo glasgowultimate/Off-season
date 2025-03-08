@@ -27,6 +27,16 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar{
   font-family: 'Oswald', sans-serif;
+  justify-content: left;
+  align-items: left;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    max-width: 100%;
+    overflow: hidden;
 }
 
 .navbar-logo {

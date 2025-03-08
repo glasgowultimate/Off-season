@@ -1,36 +1,36 @@
 ---
-title: "Building the ultimate athlete"
+title: "Building The Ultimate Athlete"
 ---
 
 Ultimate is a sport with many physical demands that require different forms of training.
 
 ![](images/ua_alan.png){width="100%"}
 
-### Athletic Development
+## Athletic Development
 
 We are going to focus on 4 key areas of physical conditioning for athletic performance:
 
 -   **Strength and Conditioning**
 
-    -   Injury prevention
+    -   Injury prevention.
 
-    -   Improved athletic performance
+    -   Improved athletic performance.
 
 -   **Endurance training**
 
-    -   Increased stamina to perform for longer and train harder
+    -   Increased stamina to perform for longer and train harder.
 
 -   **Speed, agility, quickness (SAQ)**
 
-    -   Increased speed of on-field movements
+    -   Increased speed of on-field movements.
 
-    -   Avoid injuries and fouls with good footwork and body control
+    -   Avoid injuries and fouls with good footwork and body control.
 
 -   **Mobility**
 
-    -   Increased range of motion, maneuverability and flexibility
+    -   Increased range of motion, manoeuvrability and flexibility.
 
-### Peak Performance
+## Peak Performance
 
 This handbook provides resources for athletic and ultimate conditioning as well as tips and advice to improve other areas of your game:
 
@@ -40,7 +40,7 @@ This handbook provides resources for athletic and ultimate conditioning as well 
 -   Recovery
 -   Video analysis
 
-### Focussing your training
+## Focusing your training
 
 On top of all this training, we also need to spend time playing games and developing strategy and cohesion with our team. Unless you become a full time athlete, it is very difficult to train all of these aspects at the same time.
 
@@ -48,9 +48,10 @@ On top of all this training, we also need to spend time playing games and develo
 
 Another strategy is to adopt a [progressive training plan](planning.html) that changes throughout the season to build towards peak performance.
 
-### Resources
+## Resources
 
-This handbook provides links to resources:
-GU docs...
-spreadsheet
-Specific ultimate programs..
+This handbook provides links that are available on the Glasgow Ultimate website and a spreadsheet curated by GU members containing links to training resources.
+
+-   [Glasgow Ultimate training resources](https://glasgowultimate.co.uk/training-resources/)
+
+-   [Conditioning for Ultimate spreadsheet](https://docs.google.com/spreadsheets/d/1M3_td5SLFlBzHrwxY6w706WYm_sZCrkHSMS5-wXl3vE/edit?usp=sharing)

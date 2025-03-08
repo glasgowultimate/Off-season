@@ -1,5 +1,5 @@
 ---
-title: "Planning your season"
+title: "Planning Your Season"
 ---
 
 <head>
@@ -10,7 +10,7 @@ title: "Planning your season"
 
 </head>
 
-### Periodisation
+## Periodisation
 
 **Periodisation** involves splitting your season into blocks of focused activity in order to **peak** for certain events. Each block is designed around a specific area or progression of your training regime to allow you to reach maximum performance level when it matters most.
 
@@ -24,8 +24,6 @@ There are a couple of great articles on periodisation, phases and ultimate condi
 
 One typical approach is to break your season down into specific periods, with your training becoming more ultimate specific as you approach your peak. The off-season is great for rehabbing injuries and building strength but eventually we want this gym work to translate to more powerful on field movements: Running faster, turning harder, jumping higher etc.
 
-<br>
-
 | Off season | Pre season | Peak season |
 |------------------------|------------------------|------------------------|
 | Injury prevention | S&C focus: Power based movements | Maintaining conditioning |
@@ -33,17 +31,11 @@ One typical approach is to break your season down into specific periods, with yo
 | Running focus: Base endurance | Primarily on-field training |  |
 | Primarily indoor training |  |  |
 
-<br>
-
-### Build A Season Plan
+## Build A Season Plan
 
 An overall season plan brings your goals into focus and helps you get started with your off-season.
 
-<br>
-
 ![](images/plan.png){width="100%"}
-
-<br>
 
 Here is an [example](https://docs.google.com/spreadsheets/d/1ni01ex3Xq-TEpTpjfjjTGhxZAcTwUQvEPKZ3FHcb1n0/edit?usp=sharing) of a past season plan. The aim was to develop strength, power and technique through Jan-May, be game ready for the summer and peak for Nationals and Euros at the end of the season.
 
@@ -96,4 +88,3 @@ The [GU website](https://glasgowultimate.co.uk/training-resources/) has some res
 
 -   Focused throwing sessions
 :::
-

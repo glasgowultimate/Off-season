@@ -2,9 +2,10 @@
 title: "Endurance Training"
 ---
 
-Endurance in sport refers to the ability of your body to sustain movement for an extended period of time. Building up our endurance allows us to train harder and for longer and really pays off in the latter stages of games and tournaments.
+Endurance in sport refers to the ability of your body to sustain movement for an extended period of time. Building up our endurance allows us to train harder and longer and really pays off in the latter stages of games and tournaments.
 
 ![](images/end_team.JPG){width="100%"}
+
 Endurance training can refer to muscular endurance and cardiovascular endurance. Lifting weights in the gym can develop our muscular endurance - the ability of muscles to continue to perform repeated contractions against resistance.
 
 The focus of this page is largely **cardiovascular endurance** - the capacity for our heart and lungs to transport oxygen to our muscles.
@@ -15,7 +16,7 @@ Endurance training allows us to see what our bodies are actually capable of and 
 
 Each time we squeeze out an extra 10% in training and don’t die, we have that in the memory bank to tell ourselves to keep going on the pitch.
 
-### Developing endurance for ultimate
+## Developing endurance for ultimate
 
 In order to prepare our bodies for the demands of competitive ultimate, we want our training sessions to mimic our efforts during games.
 
@@ -29,7 +30,7 @@ We’ll benefit the most from running as it trains endurance in the specific mus
 
 Using workouts which incorporate **periods of rest** teaches your body to recover quickly before the next effort. This is essential to ultimate - using those few minutes on the sideline to get your heart rate back down and being ready to give 100% next time you take the field.
 
-### Resources
+## Resources
 
 Glasgow Ultimate has a 16 week track program that begins with interval sessions to build endurance and progresses towards sprinting and linear speed exercises.
 
@@ -47,15 +48,15 @@ Glasgow Ultimate has a 16 week track program that begins with interval sessions 
 
 If you are new to running, ease yourself into it. You could try doing a few week 0 sessions before starting for real or build up the length of your runs with something like [couch to 5k](https://www.nhs.uk/live-well/exercise/get-running-with-couch-to-5k/).
 
-If you do a lot of running, you will probably want to balance out your interval sessions with [other types of running workouts](https://compedgept.com/blog/running-workout-types/):
+If you do a lot of running, you will probably want to balance out your interval sessions with [other types of running workouts](https://compedgept.com/blog/running-workout-types/).
 
-### Track your progress
+## Track your progress
 
 Try using apps such as Strava to keep track of your progress - this will help you stay motivated as you see improvement in your distance and/or pace. Remember running performance can be more susceptible to variation due to running surface, weather, environment, etc. Try to run the same route every time you want to benchmark your performance.
 
 Glasgow Ultimate has a Strava group which you can join and follow other people's activity: <https://strava.app.link/oy27VM7tRPb>
 
-### How hard should it be?
+## How hard should it be?
 
 Interval training is designed to build fatigue resistance and increase capacity for high intensity running.
 
@@ -63,7 +64,7 @@ You should be aiming to complete each of your running intervals at a similar pac
 
 Push yourself to run fast at a pace you can maintain. Use whatever mental tricks work best for you. Some people like to push hard on the second interval to get themselves into the workout. Some like to go all in on the penultimate running interval, knowing that the finish line will see them through the final rep.
 
-### Treadmill vs outdoors
+## Treadmill vs outdoors
 
 Both come with pros and cons.
 
@@ -79,11 +80,11 @@ Both come with pros and cons.
 
     -   CON: Possibly just staring at a wall the whole run. Less reliance on ourselves to keep going, the machine demands it, so slightly less gained in terms of mental resilience.
 
-### Non-running alternatives
+## Non-running alternatives
 
 If you are carrying injuries which will be aggravated by running, please do proceed with caution.
 
-It is great to train our bodies to cope with the stress put on it by running, as this is an unavoidable and integral part of our sport. But we need to manage our injuries responsibly. 
+It is great to train our bodies to cope with the stress put on it by running, as this is an unavoidable and integral part of our sport. But we need to manage our injuries responsibly.
 
 Prioritise rehabbing your body to get back to running as soon as possible. In the meantime, find an exercise which gets your heart rate up for a sustained period of time without aggravating your injury or causing pain.
 
@@ -98,4 +99,3 @@ Create a workout which replicates the on/off pace patterns of our running workou
 -   Elliptervals
 
 ![](images/end_sam.JPG){width="100%"}
-

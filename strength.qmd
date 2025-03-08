@@ -4,9 +4,12 @@ title: "Strength Training for Ultimate"
 
 There are many ways to train for ultimate and improve athletic performance. The off season is a great time to focus on strength training as there are fewer competitive demands. Invest time now to build a strong and robust base for the season ahead.
 
-![](images/gux_strength.png){width="100%"}
+::: {layout-ncol=2}
+![](images/str_becca.jpg){width="49%"}
+![](images/str_hann.jpg){width="49%"} 
+:::
 
-### Why should you do strength training?
+## Why you should do strength training
 
 -   Become more resistant to injury
 
@@ -16,21 +19,21 @@ There are many ways to train for ultimate and improve athletic performance. The 
 
 The last point is crucial to designing a workout program for ultimate athletes. The focus of your strength work is not to shift a lot of heavy weight, it’s to make you perform better on-field. With this in mind, workouts for ultimate players tend to focus on specific muscles and movements:
 
--   Powerful leg muscles for explosive actions (running, jumping, turning etc)
+-   **Powerful leg muscles** for explosive actions (running, jumping, turning etc)
 
--   Core strength for throwing and diving
+-   **Core strength** for throwing and diving
 
--   Shoulder strength and flexibility for throwing and injury prevention on landing
+-   **Shoulder strength and flexibility** for throwing and injury prevention on landing
 
--   Strong support of knees for applying large forces at different angles when landing and changing direction (often on one leg)
+-   **Strong support around the knees** for applying large forces at different angles when landing and changing direction (often on one leg)
 
--   Hip strength and mobility to improve sprint and agility technique
+-   **Hip strength and mobility** to improve sprint and agility technique
 
--   Functional strength exercises using bodyweight or free weights rather than machines
+-   **Functional strength exercises** using body-weight or free weights rather than machines
 
-Functional strength exercises employ multiple muscle groups through ranges of motion. If your focus is to become a better ultimate player, then your gym work should complement your on field actions. Later on, we will discuss how you can progress your S&C routine to include more power-based exercises (e.g. plyometrics). However, it is important to do some baseline strength first to avoid overloading and injury.
+**Functional strength** exercises employ multiple muscle groups through ranges of motion. If your focus is to become a better ultimate player, then your gym work should complement your on field actions. Later on, we will discuss how you can progress your S&C routine to include more power-based exercises. However, it is important to do some baseline strength first to avoid overloading and injury.
 
-### Getting started
+## Getting started
 
 We provide two different workout programs to get started. For each, there is a spreadsheet version with video links for all of the exercises. Use `File -> Download` to download a pdf version you can print or store on your phone.
 
@@ -48,7 +51,7 @@ You should aim for at least 1 workout per week, ideally 2.
 |                                     |                                             |                                                                                                                 |                                                 | -   Functional strength |
 +-------------------------------------+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------+-------------------------+
 
-**Sets and Reps**
+### **Sets and Reps**
 
 -   Most of these are 3 sets of 6-8 reps
 
@@ -56,7 +59,7 @@ You should aim for at least 1 workout per week, ideally 2.
 
 -   You can choose to superset exercises (group exercises into a mini circuit) if this makes your workout more efficient. It’s up to you.
 
-**Weight**
+### **Weight**
 
 -   Start light (or bodyweight) and add weight in small increments until you find the right weight for you
 
@@ -66,7 +69,7 @@ You should aim for at least 1 workout per week, ideally 2.
 
 -   If increasing the weight makes it too difficult to complete a set, try increasing reps by 1 or 2 first
 
-### Mixing it up
+## Mixing it up
 
 We are supplying these workouts as a way to get started. You should see real benefits within 4-6 weeks with either of these programs. They should introduce you to a range of exercises and give you confidence in the gym. Over time, you may want to adapt or develop your plan. It is fine to add/remove or use alternative exercises if they work better for you. Think about:
 
@@ -78,11 +81,11 @@ We are supplying these workouts as a way to get started. You should see real ben
 
 -   Your time - How long do you have to workout?
 
-### Additional resources
+## Additional resources
 
 This [spreadsheet](https://docs.google.com/spreadsheets/d/1M3_td5SLFlBzHrwxY6w706WYm_sZCrkHSMS5-wXl3vE/edit?usp=sharing) contains lists of additional resources for anyone interested in learning more about S&C for ultimate. The spreadsheet is editable so feel free to add your own links and help us to build a bigger resource.
 
-### Strength focus
+## Strength focus
 
 You will find resources online which broadly split strength training into 3 categories:
 
@@ -94,12 +97,38 @@ You will find resources online which broadly split strength training into 3 cate
 
 If you have a particular focus then you could start to tailor your workout to these aims. For most ultimate athletes, the main concern is to have a program that covers the basics, works within their time constraints and gives them tangible improvements in strength and mobility. Lifting heavy also comes with increased injury risk, so it is not recommended to adopt a targeted strength program without doing the base work first.
 
-### Find your why
+## Find your why
 
 It’s important to find a routine that you enjoy and that you can maintain. At the end of the day, becoming a better ultimate player may only be one of your goals for hitting the gym. If working out is something that stimulates you, gives you more confidence or allows you to zone out from other distractions then try to maximise that. If the gym is your happy place then find the exercises you enjoy doing. If the gym is just a means to an end, then make sure your end goals are important enough to you. Feel free to freshen up your routine or try new things to stay motivated!
 
-### Progress to power
+## Progress to power
 
-Coming soon.
+As you progress towards pre-season you may want to switch your focus from building strong muscles to training explosive movements.
+
+While both strength and power involve exerting force, "strength" refers to the ability to exert maximum force regardless of speed, while "power" is **the ability to exert force quickly**, essentially combining strength with speed to produce explosive movements.
 
 ![](images/progression.png){width="100%"}
+
+The pre-season workout below includes more movement based exercises, explosive jumping and dynamic rotational work. At this stage of the season it can be refreshing to switch up your training and try a new workout regime. Alternatively, you could just select a few exercises at a time to integrate into your existing routine.
+
++----------------------------+------------------------+--------------------------------------------------------------------------------------------------------------+-----------------+-------------------------+
+| Strength program           | Equipment required     | Program URL                                                                                                  | Weekly sessions | Focus                   |
++============================+========================+==============================================================================================================+=================+=========================+
+| *Pre-seaon Power Training* | Gym equipment required | [Link](https://docs.google.com/spreadsheets/d/1yhN2An0sxLYghwWmqzWkFyZQ6r_f9mpsq89G2rK7b-4/edit?usp=sharing) | 2 days          | -   Explosive exercises |
+|                            |                        |                                                                                                              |                 |                         |
+|                            |                        |                                                                                                              |                 | -   Dynamic movements   |
++----------------------------+------------------------+--------------------------------------------------------------------------------------------------------------+-----------------+-------------------------+
+
+There are many, many ways to train power and you may be limited by the equipment in your gym. You could also consider workouts involving:
+
+-   Resisted sprints e.g. Hill sprints, sled pushes, parachute sprints
+
+-   Resistance band exercises
+
+-   Circuit classes with explosive exercises
+
+-   Medicine ball throwing / slams
+
+-   Plyometrics
+
+**Plyometrics** (or "plyos") are explosive exercises that focus on developing power, speed, and reactivity by training the stretch-shortening cycle (SSC) of muscles. They involve rapid eccentric (lengthening) and concentric (shortening) muscle actions to generate maximum force in minimal time. While extremely beneficial, plyometric programs can lead to overuse injuries as they require intense and regular training. It is recommend that you do 6 - 12 weeks of strength training before *jumping* into plyo work, or gradually integrate plyometric exercises into your routine.

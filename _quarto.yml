@@ -2,52 +2,53 @@ project:
   type: website
 
 website:
-  title: "GU Off-Season Handbook"
+  title: "Off-Season"
   navbar:
     background: primary
     logo: "images/GlasgowLogoOutline.png"
+    collapse: true
     pinned: true
     left:
       - text: Getting Started
         menu:
           - href: building.qmd
-            text: Building the ultimate athlete
+            text: Building The Ultimate Athlete
           - href: goals.qmd
-            text: Setting personal goals
+            text: Setting Personal Goals
           - href: planning.qmd
-            text: Planning your season
+            text: Planning Your Season
       - text: Athletic Development
         menu:
           - href: strength.qmd
-            text: Strength training
+            text: Strength Training
           - href: mobility.qmd
-            text: Mobility training
+            text: Mobility Training
           - href: endurance.qmd
             text: Endurance Training
           - href: saq.qmd
-            text: Speed, agility, quickness
+            text: Speed, Agility, Quickness
           - href: recovery.qmd
             text: Recovery
           - href: injury.qmd
-            text: Injury prevention and rehab
+            text: Injury Prevention And Rehab
       - text: Skill Development
         menu:
           - href: skills.qmd
-            text: Skill development in ultimate
+            text: Skill Development In Ultimate
           - href: throwing_practice.qmd
-            text: How to practice throwing
+            text: How To Practice Your Throwing Drills
           - href: drill_tips.qmd
-            text: How to get the most out of your throwing drills
+            text: 30 Tips For Throwing Drills
       - text: Peak Performance
         menu:
           - href: nutrition.qmd
             text: Nutrition
           - href: mental.qmd
-            text: Mind games
+            text: Mind Games
           - href: video.qmd
-            text: Video analysis
+            text: Watch And Learn
           - href: trials.qmd
-            text: Preparing for trials
+            text: Preparing For Trials
 
 format:
   html:
